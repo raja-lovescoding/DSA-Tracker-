@@ -20,5 +20,5 @@ This repository contains solutions to a 500-question Data Structures and Algorit
 
 ## Progress Tracker
 
-I maintain a [Google Sheet](https://docs.google.com/spreadsheets/d/1pJMCLMN25tW6-vJnEVA0UMJ5jHg144gXU-FPPLlkV88/edit?usp=sharing) to track problem status and revision schedule.
+I maintain a [Mistake Journal](https://docs.google.com/spreadsheets/d/1CtHceF3L2PeTnAzDQPz1Zec_GmC0yMRlN_UdlrCo-Yk/edit?pli=1&gid=0#gid=0) to track my mistakes, learinings and revision schedule.
 
