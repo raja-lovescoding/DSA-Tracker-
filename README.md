@@ -16,7 +16,7 @@ This repository contains solutions to a 500-question Data Structures and Algorit
 - `Searching/`: Solutions related to searching problems.
 - `Strings/`: Solutions related to string problems.
 - `Recursion/`: Solutions related to recursion problems.
-- linkedList: solution to linked list problems.
+- `linkedList/`: solution to linked list problems.
 - `Trees/`: Solutions related to tree problems.
 - `Graphs/`: Solutions related to graph problems.
 - `DynamicProgramming/`: Solutions related to dynamic programming problems.
