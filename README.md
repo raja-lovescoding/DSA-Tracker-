@@ -2,7 +2,7 @@
 This tracks my  DSA journey with notes and revisions
 # DSA Sheet
 
-This repository contains solutions to a 500-question Data Structures and Algorithms sheet. Each solution includes:
+This repository contains Top Question with their  name for  Data Structures and Algorithms. Each tuple include :
 - Problem statement link/Name
 - Mistakes
 - learnings
