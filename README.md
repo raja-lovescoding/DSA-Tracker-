@@ -24,4 +24,4 @@ This repository contains Top Question with their  name for  Data Structures and 
 ## Progress Tracker
 
 I maintain a [Mistake Journal](https://docs.google.com/spreadsheets/d/1CtHceF3L2PeTnAzDQPz1Zec_GmC0yMRlN_UdlrCo-Yk/edit?pli=1&gid=0#gid=0) to track my mistakes, learnings and revision schedule.
-
+Keep in mind to keep revising the mistake journal , i myself revise once a week 
